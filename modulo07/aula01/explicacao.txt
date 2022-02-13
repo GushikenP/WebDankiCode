@@ -1,0 +1,16 @@
+ORIENTAÇÃO A OBJETOS NO PHP OU OOP
+
+
+//objeto. Classes que podemos criar para ter atributos e métodos
+Pessoa{
+	//atributos. Equivalente a variáveis
+	nome;
+	idade;
+	peso;
+
+
+	//métodos. Equivalente a ações que a pessoa faz
+	comer();
+	andar();
+	dormir();
+}
